@@ -1,0 +1,33 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+    background-color: rgb(234, 242, 244);
+    text-align: center;
+    font-family: 'Outfit', sans-serif;
+    margin: 0%;
+    padding: 1%;
+}
+
+h1{
+    width: 100%;
+    margin: 10% auto;
+}
+p{
+   font-size: 15px; 
+   width: 90%;
+   margin: 0 auto 10%;
+}
+
+.outer-box{
+    background-color: white;
+    border-radius: 5%;
+    width: 35%;
+    margin:auto;
+    padding: 2%;
+    margin: 10% auto;
+}
+img{
+   width: 100%; 
+   border-radius: 5%;
+}
