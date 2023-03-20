@@ -10,22 +10,22 @@ body{
 }
 
 h1{
-    width: 100%;
-    margin: 10% auto;
+    width: 90%;
+    margin: 5% auto;
+    font-size: 1.5rem;
 }
 p{
    font-size: 15px; 
    width: 90%;
-   margin: 0 auto 10%;
+   margin: 0 auto 5%;
 }
 
 .outer-box{
     background-color: white;
     border-radius: 5%;
-    width: 35%;
-    margin:auto;
-    padding: 2%;
-    margin: 10% auto;
+    width: 22%;
+    padding: 1%;
+    margin: 6.5% auto;
 }
 img{
    width: 100%; 
